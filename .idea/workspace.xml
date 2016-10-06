@@ -2,9 +2,238 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7f4bbc7-0d12-4bf8-9845-d2a839ac4959" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pokedex3/Pokemon.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pokedex3/UZKEjzG.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10001.imageset/10001.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10001.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10002.imageset/10002.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10002.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10003.imageset/10003.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10003.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10004.imageset/10004.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10004.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10005.imageset/10005.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10005.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10006.imageset/10006.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10006.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10007.imageset/10007.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10007.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10008.imageset/10008.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10008.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10009.imageset/10009.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10009.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10010.imageset/10010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10010.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10011.imageset/10011.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10011.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10012.imageset/10012.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10012.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10013.imageset/10013.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10013.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10014.imageset/10014.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10014.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10015.imageset/10015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10015.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10016.imageset/10016.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10016.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10017.imageset/10017.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10017.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10018.imageset/10018.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10018.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10019.imageset/10019.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10019.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10020.imageset/10020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10020.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10021.imageset/10021.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10021.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10022.imageset/10022.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10022.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10023.imageset/10023.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10023.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10024.imageset/10024.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10024.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10025.imageset/10025.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10025.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10026.imageset/10026.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10026.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10027.imageset/10027.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10027.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10028.imageset/10028.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10028.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10029.imageset/10029.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10029.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10030.imageset/10030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10030.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10031.imageset/10031.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10031.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10032.imageset/10032.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10032.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10033.imageset/10033.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10033.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10034.imageset/10034.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10034.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10035.imageset/10035.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10035.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10036.imageset/10036.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10036.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10037.imageset/10037.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10037.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10038.imageset/10038.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10038.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10039.imageset/10039.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10039.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10040.imageset/10040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10040.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10041.imageset/10041.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10041.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10042.imageset/10042.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10042.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10043.imageset/10043.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10043.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10044.imageset/10044.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10044.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10045.imageset/10045.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10045.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10046.imageset/10046.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10046.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10047.imageset/10047.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10047.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10048.imageset/10048.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10048.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10049.imageset/10049.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10049.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10050.imageset/10050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10050.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10051.imageset/10051.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10051.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10052.imageset/10052.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10052.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10053.imageset/10053.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10053.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10054.imageset/10054.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10054.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10055.imageset/10055.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10055.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10056.imageset/10056.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10056.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10057.imageset/10057.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10057.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10058.imageset/10058.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10058.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10059.imageset/10059.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10059.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10060.imageset/10060.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10060.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10061.imageset/10061.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10061.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10062.imageset/10062.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10062.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10063.imageset/10063.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10063.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10064.imageset/10064.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10064.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10065.imageset/10065.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10065.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10066.imageset/10066.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10066.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10067.imageset/10067.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10067.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10068.imageset/10068.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10068.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10069.imageset/10069.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10069.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10070.imageset/10070.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10070.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10071.imageset/10071.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10071.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10072.imageset/10072.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10072.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10073.imageset/10073.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10073.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10074.imageset/10074.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10074.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10075.imageset/10075.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10075.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10076.imageset/10076.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10076.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10077.imageset/10077.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10077.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10078.imageset/10078.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10078.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10079.imageset/10079.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10079.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10080.imageset/10080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10080.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10081.imageset/10081.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10081.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10082.imageset/10082.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10082.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10083.imageset/10083.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10083.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10084.imageset/10084.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10084.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10085.imageset/10085.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10085.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10086.imageset/10086.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10086.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10087.imageset/10087.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10087.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10088.imageset/10088.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10088.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10089.imageset/10089.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10089.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10090.imageset/10090.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/10090.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/701.imageset/701.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/701.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/702.imageset/702.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/702.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/703.imageset/703.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/703.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/704.imageset/704.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/704.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/705.imageset/705.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/705.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/706.imageset/706.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/706.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/707.imageset/707.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/707.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/708.imageset/708.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/708.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/709.imageset/709.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/709.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/710-average.imageset/710-average.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/710-average.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/710.imageset/710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/710.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/711-average.imageset/711-average.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/711-average.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/711.imageset/711.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/711.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/712.imageset/712.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/712.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/713.imageset/713.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/713.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/714.imageset/714.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/714.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/715.imageset/715.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/715.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/716-active.imageset/716-active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/716-active.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/716.imageset/716.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/716.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/717.imageset/717.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/717.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/718.imageset/718.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/718.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/719.imageset/719.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/719.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/720.imageset/720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/720.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/721.imageset/721.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pokedex3/Assets.xcassets/721.imageset/Contents.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/pokedex3.iml" afterPath="$PROJECT_DIR$/.idea/pokedex3.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pokedex3.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/pokedex3.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pokedex3.xcodeproj/xcuserdata/tieorange.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/pokedex3.xcodeproj/xcuserdata/tieorange.xcuserdatad/xcschemes/xcschememanagement.plist" />
     </list>
     <ignored path="pokedex3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,12 +252,12 @@
     <favorites_list name="pokedex3" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Pokemon.swift" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pokedex3/Pokemon.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -108,10 +337,53 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pokedex3" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pokedex3" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets.xcassets" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pokedex3" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pokedex3" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets.xcassets" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="677" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.xcassets.ImageSetNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Cidr.FilesView" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="pokedex3" />
   </component>
   <component name="RunManager" selected="Application.pokedex3">
     <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pokedex3" TARGET_NAME="pokedex3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pokedex3" RUN_TARGET_NAME="pokedex3" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
@@ -144,18 +416,19 @@
       <updated>1475779393943</updated>
       <workItem from="1475779396684" duration="40000" />
       <workItem from="1475779555693" duration="45000" />
+      <workItem from="1475780370151" duration="123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85000" />
+    <option name="totallyTimeSpent" value="208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -192,8 +465,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pokedex3/Pokemon.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pokedex3/Pokemon.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
         </state>
       </provider>

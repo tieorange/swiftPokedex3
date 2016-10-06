@@ -10,7 +10,9 @@
       <sourceFolder url="file://$MODULE_DIR$/pokedex3/pokemon.csv" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/pokedex3/Base.lproj/LaunchScreen.storyboard" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/pokedex3/Base.lproj/Main.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pokedex3/UZKEjzG.png" isTestSource="false" />
     </content>
+    <content url="file://$USER_HOME$/Library/Caches/AppCode2016.2/DerivedData/pokedex3-fuvedgwfszsyvdbdhmbjodivbkmw/Build/Intermediates/pokedex3.build/Debug-iphoneos/pokedex3.build/DerivedSources" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
       <library name="Header Search Paths">
