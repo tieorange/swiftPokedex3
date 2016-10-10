@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7f4bbc7-0d12-4bf8-9845-d2a839ac4959" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/pokedex3.iml" afterPath="$PROJECT_DIR$/.idea/pokedex3.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pokedex3/csv.swift" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pokedex3.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/pokedex3.xcodeproj/project.pbxproj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pokedex3/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/pokedex3/Base.lproj/Main.storyboard" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pokedex3/PokeCell.swift" afterPath="$PROJECT_DIR$/pokedex3/PokeCell.swift" />
@@ -151,12 +150,12 @@
       <updated>1475779393943</updated>
       <workItem from="1475779396684" duration="40000" />
       <workItem from="1475779555693" duration="45000" />
-      <workItem from="1475780370151" duration="756000" />
+      <workItem from="1475780370151" duration="1272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="841000" />
+    <option name="totallyTimeSpent" value="1357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />

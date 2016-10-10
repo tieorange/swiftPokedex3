@@ -5,6 +5,11 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
+    <customFonts key="customFonts">
+        <array key="pokemon.ttf">
+            <string>PokemonSolidNormal</string>
+        </array>
+    </customFonts>
     <scenes>
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
@@ -19,9 +24,29 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ws1-5E-Xt9">
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Pokedex" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3jf-Rc-ScS">
+                                        <frame key="frameInset" minX="52" minY="14" width="270" height="45"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" name="PokemonSolidNormal" family="Pokemon Solid" pointSize="32"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Tcw-gD-cfc">
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="27" id="IeG-K1-wk5"/>
+                                            <constraint firstAttribute="height" constant="27" id="JhE-cL-WtW"/>
+                                        </constraints>
+                                        <state key="normal" image="music.png"/>
+                                        <connections>
+                                            <action selector="musicButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qZP-Pg-dMG"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
                                 <color key="backgroundColor" red="1" green="0.34509803919999998" blue="0.33333333329999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="65" id="9Oh-Cc-K9M"/>
+                                    <constraint firstAttribute="bottom" secondItem="Tcw-gD-cfc" secondAttribute="bottom" constant="8" id="AlF-If-Kq7"/>
+                                    <constraint firstAttribute="trailing" secondItem="Tcw-gD-cfc" secondAttribute="trailing" constant="8" id="sN6-jn-ssO"/>
                                 </constraints>
                             </view>
                             <searchBar contentMode="redraw" ambiguous="YES" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="V3z-hI-V1m">
@@ -33,7 +58,7 @@
                             </imageView>
                             <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="3yb-qK-XVt">
                                 <frame key="frameInset" minX="16" minY="127" width="343" height="520"/>
-                                <color key="backgroundColor" red="0.7134557423857868" green="0.31329819610252574" blue="0.29325162157865875" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="aX6-vc-936">
                                     <size key="itemSize" width="50" height="50"/>
                                     <size key="headerReferenceSize" width="0.0" height="0.0"/>
@@ -82,18 +107,19 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
+                            <constraint firstItem="ws1-5E-Xt9" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="1Kw-h8-SPe"/>
                             <constraint firstAttribute="trailing" secondItem="DJq-7y-Bu5" secondAttribute="trailing" id="2Jo-lF-bfF"/>
-                            <constraint firstItem="V3z-hI-V1m" firstAttribute="top" secondItem="ws1-5E-Xt9" secondAttribute="bottom" id="4B6-kv-6cE"/>
                             <constraint firstAttribute="trailing" secondItem="3yb-qK-XVt" secondAttribute="trailing" constant="16" id="6Aa-NN-vyg"/>
-                            <constraint firstAttribute="trailing" secondItem="ws1-5E-Xt9" secondAttribute="trailing" id="6up-zC-GFD"/>
-                            <constraint firstItem="ws1-5E-Xt9" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="7qC-2b-zag"/>
                             <constraint firstItem="DJq-7y-Bu5" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="CLi-G0-ZP3"/>
                             <constraint firstItem="3yb-qK-XVt" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="16" id="Omh-bs-ng4"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="DJq-7y-Bu5" secondAttribute="bottom" id="Rpg-Ng-3i0"/>
-                            <constraint firstItem="ws1-5E-Xt9" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="WiH-jV-DLj"/>
+                            <constraint firstItem="ws1-5E-Xt9" firstAttribute="trailing" secondItem="V3z-hI-V1m" secondAttribute="trailing" id="dls-TN-yQ4"/>
+                            <constraint firstItem="ws1-5E-Xt9" firstAttribute="leading" secondItem="V3z-hI-V1m" secondAttribute="leading" id="eCH-IN-zSh"/>
+                            <constraint firstAttribute="bottom" secondItem="ws1-5E-Xt9" secondAttribute="bottom" constant="602" id="hxa-uG-OXs"/>
                             <constraint firstAttribute="trailing" secondItem="V3z-hI-V1m" secondAttribute="trailing" id="rmW-HE-zVl"/>
                             <constraint firstItem="3yb-qK-XVt" firstAttribute="top" secondItem="V3z-hI-V1m" secondAttribute="bottom" constant="18" id="vPs-5n-cxF"/>
                             <constraint firstItem="V3z-hI-V1m" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="vex-Yf-QZU"/>
+                            <constraint firstItem="ws1-5E-Xt9" firstAttribute="bottom" secondItem="V3z-hI-V1m" secondAttribute="top" id="wBe-eN-E8f"/>
                             <constraint firstItem="DJq-7y-Bu5" firstAttribute="top" secondItem="V3z-hI-V1m" secondAttribute="bottom" id="wr9-99-nBw"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="3yb-qK-XVt" secondAttribute="bottom" constant="20" id="ycy-CM-MN2"/>
                         </constraints>
@@ -110,5 +136,6 @@
     <resources>
         <image name="4" width="96" height="96"/>
         <image name="background" width="1920" height="1080"/>
+        <image name="music.png" width="100" height="100"/>
     </resources>
 </document>
